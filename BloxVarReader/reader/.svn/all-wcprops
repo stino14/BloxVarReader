@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader
+END
+ISettingsReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/ISettingsReader.cs
+END
+CmdLineReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/CmdLineReader.cs
+END
+GuiSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/GuiSettings.cs
+END
+BloxReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/BloxReader.cs
+END
+SystemReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/SystemReader.cs
+END
+SystemNameReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/reader/SystemNameReader.cs
+END

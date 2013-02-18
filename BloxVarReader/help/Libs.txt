@@ -1,0 +1,5 @@
+﻿Benötigte Dlls zum ausführen:
+
+HTMLGenerator -- Subversion
+log4net -- http://logging.apache.org/log4net/index.html
+Nunit -- www.nunit.org

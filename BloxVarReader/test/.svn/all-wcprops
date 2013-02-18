@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/test
+END
+CmdLineReaderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/test/CmdLineReaderTest.cs
+END
+SystemReaderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/test/SystemReaderTest.cs
+END
+SystemNameReaderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/reposvn/!svn/ver/86/Research/BloxVarReader/trunk/BloxVarReader/test/SystemNameReaderTest.cs
+END
