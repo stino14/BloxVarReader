@@ -15,6 +15,7 @@ namespace BloxVarReader
 	
 	public class DeepThought
 	{
+		
 		private static ILog log = Helper.getLog();
 
 		private static string Resource_Folder = "resources\\";
